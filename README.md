@@ -9,8 +9,8 @@
 <h3 align="center">✨ Blog ✨</h3></br>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woogur29)](https://github.com/wo-o29/velog-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woogur29)](https://velog.io/@woogur29) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woogur29)]([https://github.com/wo-o29/velog-readme-stats](https://velog.io/@woogur29/posts))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woogur29)]([https://velog.io/@woogur29](https://velog.io/@woogur29/posts)) 
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wo-o29/github-readme-stats#gh-dark-mode-only)

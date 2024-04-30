@@ -14,21 +14,21 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/>&nbsp
 
 </br>
+<br>
+<br>
 
 <h3 align="center">📝 Blog </h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woogur29)](https://velog.io/@woogur29/posts)
 
 
-
-
+<br>
+<br>
 <br>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en)](https://git.io/streak-stats)
-<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
-
-
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
 
 
 

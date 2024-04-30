@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=koyehxoo&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)
   
-  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=koyehxoo&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling)
+  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=woohyeok&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling)
   
   <h3 align="center">⚙️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp

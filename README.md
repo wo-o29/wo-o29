@@ -21,5 +21,5 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508woogur29%2Fhit-counter&count_bg=%23375BFF&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=+-&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://github.com/{wo-o29}/{wo-o29}/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/wo-o29/wo-o29/blob/output/github-contribution-grid-snake.svg"/>
 </div>

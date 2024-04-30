@@ -19,10 +19,18 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woogur29)](https://velog.io/@woogur29/posts)
 
+
+
+
 <br>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wo-o29/github-readme-stats#gh-dark-mode-only)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en)](https://git.io/streak-stats)
+<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
+
+
+
+
 
 <br>
 
@@ -30,6 +38,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29)](https://solved.ac/woogur29)
 
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wo-o29/github-readme-stats#gh-dark-mode-only)
 
 <br>
 

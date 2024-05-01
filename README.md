@@ -8,7 +8,7 @@
   
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=woohyeok&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling)
   
-  <h3 align="center">⚙️ Tech Stack</h3>
+  <h3 >⚙️ Tech Stack</h3>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/>&nbsp
@@ -17,29 +17,31 @@
 <br>
 <br>
 
-<h3 align="center">📝 Blog </h3>
-
+<h3> 📝 My Blog </h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=woogur29)](https://velog.io/@woogur29/posts)
 
+<br>
+<br>
+
+
+
+  <h3> 📊 Contribute Stats </h3>
+  <img width="50%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en">
 
 <br>
 <br>
-<br>
 
-
-<div>
-<img width="50%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en">&nbsp<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
-</div>
-
-
+  <h3> 🎯 Most Language </h3>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
 
 <br>
+<br>
+
+<h3> 🧶 Alogorithm </h3>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29)](https://solved.ac/woogur29)
-
-
 
 <br>
 

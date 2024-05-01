@@ -27,7 +27,7 @@
 
 
   <h3> 📊 Contribute Stats </h3>
-  <img width="50%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en">
+  <img width="50%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko">
 
 <br>
 <br>

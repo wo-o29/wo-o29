@@ -29,7 +29,7 @@
 
 
 <div>
-<img width="250px" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en"><img width="250px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
+<img width="350px" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en"><img width="350px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
 </div>
 
 

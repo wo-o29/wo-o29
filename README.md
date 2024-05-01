@@ -34,8 +34,7 @@
 <br>
 
 <div>
-<img width="50%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en">
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
+<img width="50%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=en"><img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
 </div>
 
 

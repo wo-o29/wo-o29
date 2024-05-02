@@ -34,7 +34,7 @@
 
 <h3> 🐱 GitHub Stats </h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wo-o29/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wo-o29)
 
 
 <br>

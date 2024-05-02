@@ -36,11 +36,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/wo-o29/github-readme-stats#gh-dark-mode-only)
 
-<br>
-<br>
-
-  <h3> 🎯 Most Language </h3>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woo29&layout=compact&theme=tokyonight&hide_border=false">
 
 <br>
 <br>

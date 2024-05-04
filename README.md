@@ -2,12 +2,14 @@
   
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=woohyeok&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&animation=twinkling)
   
-  <h3 >⚙️ Tech Stack</h3>
+</div>
+
+<h3 >⚙️ Tech Stack</h3>
+<div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/>&nbsp
 </div>
-<br>
 <br>
 <br>
 

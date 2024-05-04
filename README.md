@@ -10,8 +10,8 @@
 <br>
 <br>
 
-  <img width="45%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko">&nbsp;
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only">
+  <img width="48%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko">&nbsp;
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only">
  
 <br>
 <br>

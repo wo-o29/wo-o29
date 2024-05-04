@@ -11,9 +11,10 @@
 <br>
 
 <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only"/>
-  <img width="48%"  src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
+<img width="48%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
   
-<br>
+<br/>
+<br/>
 
 <img height="170px" src="https://velog-readme-stats.vercel.app/api/list?name=woogur29"/>&nbsp;
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29"/>

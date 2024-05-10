@@ -1,13 +1,20 @@
 <div align="center">
   
-  ![https://github.com/wo-o29](https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)    
+  <a href="https://github.com/wo-o29">
+    
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)    
+    </a>
+    
 </div>
 
 <h3 >⚙️ Tech Stack</h3>
 <div>
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/>&nbsp
+  <a href="https://github.com/wo-o29">
+    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>&nbsp
+  <a href="https://github.com/wo-o29">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/wo-o29">
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/></a>&nbsp;
 </div>
 <br>
 <br>
@@ -15,8 +22,7 @@
 <h3>🐱 Github & Contribution States</h3>
 <div>
 <a href="https://github.com/wo-o29">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only"/>
-</a>&nbsp;
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only"/></a>&nbsp;
 <a href="https://github.com/wo-o29">
   <img width="48%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
 </a>
@@ -27,8 +33,7 @@
 <h3>📝 Blog & Algorithm</h3>
 <div>
 <a href="https://velog.io/@woogur29">
-  <img height="170px" src="https://velog-readme-stats.vercel.app/api/list?name=woogur29"/>
-</a>&nbsp;
+  <img height="170px" src="https://velog-readme-stats.vercel.app/api/list?name=woogur29"/></a>&nbsp;
 <a href="https://solved.ac/profile/woogur29">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29"/>
 </a>

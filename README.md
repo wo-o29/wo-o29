@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)    
+  ![https://github.com/wo-o29](https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)    
 </div>
 
 <h3 >⚙️ Tech Stack</h3>

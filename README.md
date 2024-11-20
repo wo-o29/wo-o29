@@ -32,10 +32,11 @@
 
 <h3>📝 Blog & Algorithm</h3>
 <div>
-<a href="https://velog.io/@woogur29">
-  <img height="170px" src="https://velog-readme-stats.vercel.app/api/list?name=woogur29"/></a>&nbsp;
+<a href="https://velog.io/@woogur29/posts">
+  <img src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
+</a>&nbsp;
 <a href="https://solved.ac/profile/woogur29">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29"/>
+  <img height="240px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29"/>
 </a>
 </div>
 

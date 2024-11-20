@@ -1,10 +1,7 @@
 <div align="center">
-  
   <a href="https://github.com/wo-o29">
-    
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling)    
-</a>
-    
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling"/>
+  </a>
 </div>
 
 <h3 >⚙️ Tech Stack</h3>
@@ -19,9 +16,10 @@
 <br/>
 
 <h3>🐱 Github & Contribution States</h3>
+<div height="10px"/>
 <div>
 <a href="https://github.com/wo-o29">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only"/></a>&nbsp;
+  <img width="47.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only"/></a>&nbsp;
 <a href="https://github.com/wo-o29">
   <img width="48%" height="200px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
 </a>

@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/wo-o29">
-    <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling"/>
+    <img width="100%" height="170px" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=woohyeok&nbsp;&nbsp;&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=0:2ebf91,100:8360c3&fontColor=ffffff&animation=twinkling"/>
   </a>
 </div>
 

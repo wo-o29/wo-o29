@@ -31,12 +31,9 @@
 <br/>
 
 <h3>📝 Blog & Algorithm</h3>
-<div>
+<div align="center">
 <a href="https://velog.io/@woogur29/posts">
-  <img height="220px" src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
-</a>&nbsp;
-<a href="https://solved.ac/profile/woogur29">
-  <img height="195px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29"/>
+  <img  src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
 </a>
 </div>
 

@@ -26,11 +26,11 @@
 </div>
 <br/>
 
-<h3>📝 Blog & Algorithm</h3>
+<h3>💫 Deep Dive Learning</h3>
 <div height="10px"/>
 <div>
 <a href="https://velog.io/@woogur29/posts">
-  <img height="300px" src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
+  <img height="260px" src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
 </a>
 </div>
 

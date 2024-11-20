@@ -24,7 +24,7 @@
 <a href="https://github.com/wo-o29">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wo-o29&show_icons=true&theme=tokyonight#gh-dark-mode-only"/></a>&nbsp;
 <a href="https://github.com/wo-o29">
-  <img width="48%" height="195px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
+  <img width="48%" height="200px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
 </a>
 </div>
 
@@ -33,7 +33,7 @@
 <h3>📝 Blog & Algorithm</h3>
 <div>
 <a href="https://velog.io/@woogur29/posts">
-  <img height="195px" src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
+  <img height="195px" width="550px"  src="https://velog-github-badge.vercel.app/badge/woogur29?theme=dark&posts=5"/>
 </a>&nbsp;
 <a href="https://solved.ac/profile/woogur29">
   <img height="195px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woogur29"/>

@@ -16,8 +16,7 @@
   <a href="https://github.com/wo-o29">
     <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white"/></a>&nbsp;
 </div>
-<br>
-<br>
+<br/>
 
 <h3>🐱 Github & Contribution States</h3>
 <div>
@@ -27,7 +26,6 @@
   <img width="48%" height="200px" src="https://streak-stats.demolab.com?user=wo-o29&theme=buefy-dark&locale=ko"/>
 </a>
 </div>
-
 <br/>
 
 <h3>📝 Blog & Algorithm</h3>

@@ -9,9 +9,6 @@
 </div>
 
 <br>
-<br>
-
-
 
 <h3>🎯 Open Source Contribution</h3>
 
@@ -34,5 +31,4 @@
 - [mdn/translated-content](https://github.com/mdn/translated-content/pulls?q=author%3Awo-o29+)
 
 
-<br>
 <br>

@@ -26,6 +26,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js/pulls?q=author%3Awo-o29+)
 - [yarnpkg/berry](https://github.com/yarnpkg/berry/pulls?q=author%3Awo-o29+)
 - [remix-run/react-router](https://github.com/remix-run/react-router/pulls?q=author%3Awo-o29+)
+- [react-hook-form/documentation](https://github.com/react-hook-form/documentation/pulls?q=is%3Apr+author%3Awo-o29+)
 - [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=author%3Awo-o29+)
 - [naver/fe-news](https://github.com/naver/fe-news/pulls?q=author%3Awo-o29+)
 - [mdn/translated-content](https://github.com/mdn/translated-content/pulls?q=author%3Awo-o29+)

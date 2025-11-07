@@ -1,6 +1,6 @@
 
 
-<h3>💫 Deep Dive Learning</h3>
+<h2>💫 Deep Dive Learning</h2>
 <div height="10px"/>
 <div>
 <a href="https://velog.io/@woogur29/posts">
@@ -10,7 +10,11 @@
 
 <br>
 
-<h3>🎯 Open Source Contribution</h3>
+<h2>🎯 Open Source Contribution</h2>
+
+![wo-o29's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wo-o29&combine_all_yearly_contributions=true&hide=B&hide_contributor_rank=false&order_by=contributions&theme=algolia)
+
+<h3>👉 Contribution Details</h3>
 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Awo-o29+)
 

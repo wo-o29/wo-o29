@@ -14,7 +14,8 @@
 
 ![wo-o29's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wo-o29&combine_all_yearly_contributions=true&hide=B&hide_contributor_rank=false&order_by=contributions&theme=algolia)
 
-<h3>👉 Contribution Details</h3>
+<details>
+<summary><strong>👉 Contribution Details</strong></summary>
 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Awo-o29+)
 
@@ -36,5 +37,6 @@
 - [naver/fe-news](https://github.com/naver/fe-news/pulls?q=author%3Awo-o29+)
 - [mdn/translated-content](https://github.com/mdn/translated-content/pulls?q=author%3Awo-o29+)
 
+</details>
 
 <br>

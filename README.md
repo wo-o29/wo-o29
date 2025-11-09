@@ -10,10 +10,12 @@
 
 <h3>🎯 Open Source Contribution</h3>
 
+<a href="https://github.com/search?q=author%3Awo-o29+created%3A%3E2025-03-01+-user%3Awo-o29+-org%3ABook-Study-For-Developer+-org%3Awoowacourse-precourse+-org%3Awoowacourse+-org%3Awoowacourse-teams&type=pullrequests">
 ![wo-o29's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wo-o29&combine_all_yearly_contributions=true&hide=B&hide_contributor_rank=false&order_by=contributions&theme=algolia)
+</a>
 
 <details>
-<summary><strong>👉 Contribution Details</strong></summary>
+<summary id="datail"><strong>👉 Contribution Details</strong></summary>
 
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Awo-o29+)
 

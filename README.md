@@ -22,7 +22,7 @@
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=author%3Awo-o29+)
 
 - [toss/react-simplikit](https://github.com/toss/react-simplikit/pulls?q=author%3Awo-o29+)
-- [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=is%3Apr+author%3Awo-o29+)
+- [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=author%3Awo-o29+)
 - [toss/overlay-kit](https://github.com/toss/overlay-kit/pulls?q=author%3Awo-o29+)
 - [toss/suspensive](https://github.com/toss/suspensive/pulls?q=author%3Awo-o29+)
 - [toss/docflow](https://github.com/toss/docflow/pulls?q=author%3Awo-o29+)

@@ -29,6 +29,7 @@
 - [toss/technical-writing](https://github.com/toss/technical-writing/pulls?q=author%3Awo-o29+)
 - [mui/material-ui](https://github.com/mui/material-ui/pulls?q=author%3Awo-o29)
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui/pulls?q=author%3Awo-o29+)
+- [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui/pulls?q=author%3Awo-o29+)
 - [TanStack/query](https://github.com/TanStack/query/pulls?q=author%3Awo-o29+)
 - [vitejs/vite](https://github.com/vitejs/vite/pulls?q=author%3Awo-o29+)
 - [vercel/next.js](https://github.com/vercel/next.js/pulls?q=author%3Awo-o29+)
